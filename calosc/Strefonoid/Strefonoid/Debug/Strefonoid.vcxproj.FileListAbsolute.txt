@@ -1,0 +1,10 @@
+C:\Users\domin\Desktop\gry\06\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.vcxproj.AssemblyReference.cache
+C:\Users\domin\Desktop\gry\06\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.Autor.resources
+C:\Users\domin\Desktop\gry\06\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.Gra.resources
+C:\Users\domin\Desktop\gry\06\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.Powitanie.resources
+C:\Users\domin\Desktop\gry\06\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.vcxproj.GenerateResource.cache
+C:\Users\domin\Desktop\gry\strefa\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.vcxproj.AssemblyReference.cache
+C:\Users\domin\Desktop\gry\strefa\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.Autor.resources
+C:\Users\domin\Desktop\gry\strefa\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.Gra.resources
+C:\Users\domin\Desktop\gry\strefa\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.Powitanie.resources
+C:\Users\domin\Desktop\gry\strefa\calosc\Strefonoid\Strefonoid\Debug\Strefonoid.vcxproj.GenerateResource.cache
